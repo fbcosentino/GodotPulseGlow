@@ -1,5 +1,7 @@
 # PulseGlow shader for Godot Engine
 
+![](img/icon.png)
+
 Pulsating light shader for Godot 3.0+ (using GLES3). 
 Apply only to meshes with rounded corners!
 
